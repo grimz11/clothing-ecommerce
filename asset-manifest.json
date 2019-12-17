@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clothing-ecommerce/static/css/main.1752def4.chunk.css",
+    "main.js": "/clothing-ecommerce/static/js/main.c68d002e.chunk.js",
+    "main.js.map": "/clothing-ecommerce/static/js/main.c68d002e.chunk.js.map",
+    "runtime-main.js": "/clothing-ecommerce/static/js/runtime-main.7d09557c.js",
+    "runtime-main.js.map": "/clothing-ecommerce/static/js/runtime-main.7d09557c.js.map",
+    "static/js/2.efb23470.chunk.js": "/clothing-ecommerce/static/js/2.efb23470.chunk.js",
+    "static/js/2.efb23470.chunk.js.map": "/clothing-ecommerce/static/js/2.efb23470.chunk.js.map",
+    "index.html": "/clothing-ecommerce/index.html",
+    "precache-manifest.9c8235e7e614d94eeb2c1d8fca274b77.js": "/clothing-ecommerce/precache-manifest.9c8235e7e614d94eeb2c1d8fca274b77.js",
+    "service-worker.js": "/clothing-ecommerce/service-worker.js",
+    "static/css/main.1752def4.chunk.css.map": "/clothing-ecommerce/static/css/main.1752def4.chunk.css.map",
+    "static/js/2.efb23470.chunk.js.LICENSE": "/clothing-ecommerce/static/js/2.efb23470.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/clothing-ecommerce/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/clothing-ecommerce/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d09557c.js",
+    "static/js/2.efb23470.chunk.js",
+    "static/css/main.1752def4.chunk.css",
+    "static/js/main.c68d002e.chunk.js"
+  ]
+}
