@@ -2,7 +2,7 @@
   "name": "react-ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://grimz11.github.io/react-ecommerce",
+  "homepage": "https://grimz11.github.io/clothing-ecommerce",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
